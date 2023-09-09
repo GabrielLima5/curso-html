@@ -1,0 +1,43 @@
+<html>
+	<head>
+		<meta charset="utf-8">
+	</head>
+	<body>
+		
+		<form>
+			<label>Nome</label>
+			<input type="text" placeholder="Escreva seu nome" id="nome">
+			
+			<label>Idade</label>
+			<input type="text" placeholder="Digite sua idade" id="idade">
+
+			<label>Filhos</label>
+			<input type="text" placeholder="Digite a quantidade de filhos" id="filhos">
+
+			<button type="submit" id="botao">Enviar</button>
+		</form>
+
+		<script type="text/javascript">
+
+			document.querySelector("#botao").addEventListener("click", function(evento){
+
+				evento.preventDefault();
+
+				let nome = document.querySelector("#nome").value;
+
+				let idade = document.querySelector("#idade").value;
+
+				let filhos= document.querySelector("#filhos").value;
+
+				// console.log("Oi, meu nome é " + nome);
+
+				// alert("Oi, meu nome é " + nome + ". Eu tenho " + idade + " anos.");
+
+				alert(`Oi, meu nome é ${nome}. Eu tenho ${idade} anos. E tenho ${filhos} filhos`);
+
+			});
+			
+		</script>
+
+	</body>
+</html>
