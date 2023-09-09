@@ -3,7 +3,7 @@
 <p align="center">
     <img src="https://github.com/GabrielLima5/curso-html5-hcode/blob/main/Certificado/certificado.jpg">
 </p>
-Este repositório abriga todos os arquivos relacionados ao curso de HTML5 da Hcode Treinamentos, que ocorreu de 14 de novembro de 2022 a 14 de dezembro de 2022.
+Este repositório abriga todos os arquivos relacionados ao curso de HTML5 da <a href="https://hcode.com.br/">Hcode Treinamentos</a>, que ocorreu de 14 de novembro de 2022 a 14 de dezembro de 2022.
 
 ## Sobre o Curso
 Neste curso, mergulhei no mundo do desenvolvimento web e adquiri conhecimentos abrangentes sobre várias tecnologias fundamentais:
@@ -17,11 +17,11 @@ Neste curso, mergulhei no mundo do desenvolvimento web e adquiri conhecimentos a
 ## Projetos
 Durante o curso, tive a oportunidade de trabalhar em três projetos:
 
-* **Tabuada**: Criei uma simples tabuada que me permitiu praticar minhas habilidades de HTML e JavaScript.
+* **<a href="https://github.com/GabrielLima5/tabuada-hcode">Tabuada</a>**: Criei uma simples tabuada que me permitiu praticar minhas habilidades de HTML e JavaScript.
 
 * **Tela de Login**: Desenvolvi uma tela de login estática, aplicando meus conhecimentos em HTML e CSS.
 
-* **Site Responsivo:** Elaborei um site responsivo que se adapta a diferentes dispositivos e tamanhos de tela. Isso me proporcionou uma compreensão básica de CSS responsivo.
+* **<a href="https://github.com/GabrielLima5/site-responsivo-hcode">Site Responsivo</a>**: Elaborei um site responsivo que se adapta a diferentes dispositivos e tamanhos de tela. Isso me proporcionou uma compreensão básica de CSS responsivo.
 
 Esses projetos me deram a oportunidade de ver na prática como os sites são estruturados e como o desenvolvimento web pode ser gratificante.
 
