@@ -15,7 +15,7 @@ Neste curso, mergulhei no mundo do desenvolvimento web e adquiri conhecimentos a
 * **Básico de JavaScript**: Tive meu primeiro contato com JavaScript, focando principalmente na parte de eventos. Isso me permitiu tornar meus sites interativos e dinâmicos.
 
 ## Projetos
-Durante o curso, tive a oportunidade de trabalhar em quatro projetos:
+Durante o curso, tive a oportunidade de trabalhar em três projetos:
 
 * **Tabuada**: Criei uma simples tabuada que me permitiu praticar minhas habilidades de HTML e JavaScript.
 
@@ -26,4 +26,4 @@ Durante o curso, tive a oportunidade de trabalhar em quatro projetos:
 Esses projetos me deram a oportunidade de ver na prática como os sites são estruturados e como o desenvolvimento web pode ser gratificante.
 
 ## Minha Jornada
-Este curso marcou meu primeiro contato com o desenvolvimento web, e desde então, passei a enxergar os sites de uma maneira completamente nova. Percebi que tenho o poder de criar sites bonitos e interativos que podem impactar positivamente os usuários.
+Este curso marcou meu primeiro contato com o desenvolvimento web, e desde então, passei a enxergar os sites de uma maneira completamente nova. A partir desse momento, percebi que tenho o poder de criar sites bonitos e interativos que podem impactar positivamente os usuários.
