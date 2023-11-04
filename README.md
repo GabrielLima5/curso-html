@@ -1,4 +1,4 @@
-# <p align="center">Curso de HTML5 da Hcode Treinamentos</p>
+# <p align="center">Curso Completo de HTML5 - Hcode</p>
 
 <p align="center">
     <img src="https://github.com/GabrielLima5/curso-html5-hcode/blob/main/Certificado/certificado.jpg">
