@@ -23,7 +23,7 @@ Durante o curso, tive a oportunidade de trabalhar em três projetos:
 
 * **<a href="https://github.com/GabrielLima5/site-responsivo-hcode">Site Responsivo</a>**: Elaborei um site responsivo que se adapta a diferentes dispositivos e tamanhos de tela. Isso me proporcionou uma compreensão básica de CSS responsivo.
 
-Esses projetos me deram a oportunidade de ver na prática como os sites são estruturados e como o desenvolvimento web pode ser gratificante.
+Esses projetos me deram a oportunidade de ver na prática como os sites são estruturados e como o desenvolvimento web é um mundo altamente explorável e gratificante de se conhecer.
 
 ## Minha Jornada
 Este curso marcou meu primeiro contato com o desenvolvimento web, e desde então, passei a enxergar os sites de uma maneira completamente nova. A partir desse momento, percebi que tenho o poder de criar sites bonitos e interativos que podem impactar positivamente os usuários.
